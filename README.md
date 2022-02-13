@@ -14,7 +14,8 @@ Get the input from the user
 Create a nested for-loop and append the values.
 ### Step 5:
 Store the values in a separate variable.Multiply the values.
-## PROGRAM: 
+## PROGRAM:
+```
 import numpy as np
 l1, l2 = [],[]
 n= int(input())
@@ -26,6 +27,7 @@ val1= np.array(l1)
 val2 = np.array(l2)
 result = val1*val2
 print("Product of two arrays is:",result)
+```
 ## OUTPUT:
 ![pic1](https://user-images.githubusercontent.com/94386222/153753558-a5e28bea-1873-4bf7-acfb-d3e4721c5f6d.png)
 
