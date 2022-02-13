@@ -30,4 +30,4 @@ print("Product of two arrays is:",result)
 ![pic1](https://user-images.githubusercontent.com/94386222/153753558-a5e28bea-1873-4bf7-acfb-d3e4721c5f6d.png)
 
 ## RESULT:
-
+Thus the program is written and executed for multiplication of two matrices
